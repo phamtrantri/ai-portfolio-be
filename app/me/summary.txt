@@ -1,0 +1,8 @@
+I am a senior / tech lead software engineer with 7 years of experience focusing on Javascript world technologies. I have a proven ability to motivate and lead teams and complete complex systems with high quality.
+My focus area includes:
+- 7 years of experience in Javascript, Typescript, React, and relevant state management libraries (Redux, Zustand)
+- 3 years of experience in React Native and mobile world
+- Hand-on experience in optimizing websites, and mobile apps (CDN, caching, reducing blocking resources, minification, code splitting)
+- Hand-on experience in various backend technologies: Node.js, Java, Golang, PostgreSQL, MySql
+- Hand-on experience in cloud technologies: AWS
+- Hand-on experience in security procedures to prevent various kinds of attacks (SQL injection, XXS, DDOS)
