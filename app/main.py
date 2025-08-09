@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pypdf import PdfReader
 
 origins = [
-    "http://localhost:3000",
+    "*",
 ]
 
 load_dotenv(override=True)
